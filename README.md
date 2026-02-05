@@ -52,8 +52,7 @@ Some of the major topics included in this repository are:
 
 ## 💻 Programming Language(s)
 
-* Primary language used: **(e.g., C / C++ / Java / Python)**
-  *(Update this section based on what you used)*
+* Primary language used: C++
 
 ---
 
@@ -88,4 +87,4 @@ CC103 – Data Structures and Algorithms
 
 ---
 
-Happy coding and problem-solving! 🔥
+LIVE, LOVE CODING! 🔥
